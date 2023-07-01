@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xBC0fBD1339919E0CbFd174476f9a83Ce9865f1a2",
+  "SCAN_LINK": "https://etherscan.io/0xBC0fBD1339919E0CbFd174476f9a83Ce9865f1a2",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "The CANVAS",
+  "SYMBOL": "CAN",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 111000000000000000,
+  "DISPLAY_COST": 0.11100000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/thecanvas-1",
+  "SHOW_BACKGROUND": true
+}
